@@ -1,7 +1,7 @@
 class Conference < ApplicationRecord
   belongs_to :event
   has_many :speakers
-  has_many :attendees
+  has_many :attendees, class_name: 'Attendee'
 
   validates :event, presence: true
   validates :title, presence: true, length: { maximum: 255, minimum: 5 }

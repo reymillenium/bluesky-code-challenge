@@ -18,5 +18,7 @@ module BlueSkyCodeChallenge
     config.api_only = true
     config.generators.system_tests = nil
     config.active_record.schema_format = :ruby
+
+    config.common_batch_size = 500
   end
 end

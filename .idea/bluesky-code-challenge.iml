@@ -26,9 +26,66 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/cache" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.6.6 [bluesky-code-challenge]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, RVM: ruby-2.5.1 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actioncable (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activestorage (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="awesome_print (v1.8.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.15, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.4, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="byebug (v11.1.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="date_validator (v0.10.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dotenv (v2.7.6, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dotenv-rails (v2.7.6, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="email_validator (v2.0.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubi (v1.9.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v2.13.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.5, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.10.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.7.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.7.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="marcel (v0.3.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v1.0.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mimemagic (v0.3.5, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.0.2, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.14.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.2, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.10, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.13.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-rails (v0.3.9, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="puma (v4.3.5, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-cors (v1.1.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v5.2.4.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sequel (v5.35.0, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.0.2, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.2.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.4.2, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v1.0.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.7, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2020.1, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.3, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, RVM: ruby-2.6.6 [bluesky-code-challenge]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
