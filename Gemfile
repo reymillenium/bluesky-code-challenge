@@ -20,10 +20,6 @@ gem 'jbuilder'
 # Security
 gem 'bcrypt'
 
-# gem 'kaminari'
-# gem 'pager_api'
-# gem 'active_model_serializers'
-
 # Others
 gem 'awesome_print'
 gem 'date_validator' # makes it easier to validate times/dates

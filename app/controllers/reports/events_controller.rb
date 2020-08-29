@@ -2,21 +2,16 @@ module Reports
   class EventsController < ::ApplicationController
     include CommonControl
 
+    before_action :update_api_pagination, :update_sorting, only: [:attendees]
+
     def speakers
       @event = Event.find events_params[:event_id]
-
-      @speakers = @event.speakers.group(:email)
+      @speakers = @event.speakers.limit(@limit).offset(@offset).order("#{@sort_column} #{@sort_direction}").group(:email)
     end
 
     def attendees
-      limit = (l = params[:limit].to_i) == 0 ? 100 : l
-      page = (p = params[:page].to_i) == 0 ? 1 : p
-      offset = (page -1) * limit
-
-
       @event = Event.find events_params[:event_id]
-
-      @attendees = @event.attendees.group(:email).limit(limit).offset(offset)
+      @attendees = @event.attendees.limit(@limit).offset(@offset).order("#{@sort_column} #{@sort_direction}").group(:email)
     end
 
     private
